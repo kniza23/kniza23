@@ -76,6 +76,7 @@ I am a Master's student in **Advanced Machine Learning and Multimedia Intelligen
   </tbody>
 </table>
 
+---
 
 ## 🚀 Featured Projects
 
