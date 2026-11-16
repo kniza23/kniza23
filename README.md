@@ -9,10 +9,10 @@
 </p>
 
 <a href="https://www.linkedin.com/in/kenza-bousbaa/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=203A43&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=kniza23&label=PROFILE+VIEWS&color=203A43&style=for-the-badge"/>
 
 </div>
 
@@ -29,6 +29,7 @@ My interests lie in Artificial Intelligence, Machine Learning, Data Science and 
 I enjoy transforming theoretical concepts into practical solutions through experimentation, programming and continuous learning.
 
 **Currently exploring:**
+
 - Generative AI & Large Language Models
 - Retrieval-Augmented Generation (RAG)
 - Natural Language Processing
@@ -41,11 +42,11 @@ I enjoy transforming theoretical concepts into practical solutions through exper
 
 ## 🧠 Technologies & Tools
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,linux,vscode,tensorflow,sklearn,fastapi"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,tensorflow,sklearn&perline=8"/>
 
-</p>
+</div>
 
 **AI & Data:** Python · Scikit-learn · TensorFlow · Keras · Pandas · NumPy
 
@@ -59,12 +60,29 @@ I enjoy transforming theoretical concepts into practical solutions through exper
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| **RAG Assistant** | PDF question-answering using embeddings, FAISS and LLMs. |
-| **Phishing Detection** | Machine Learning classification with 98.55% Random Forest accuracy. |
-| **Face Recognition** | Comparative study of PCA (Eigenfaces) and LDA (Fisherfaces). |
-| **ONCF AR Assistant** | Multilingual augmented reality application for railway station navigation. |
+### 01. Document Intelligence — RAG Assistant
+
+An intelligent document question-answering system using PDF ingestion, local embeddings, semantic search, FAISS and LLM-based generation.
+
+**Technologies:** Python · FastAPI · FAISS · Ollama · Next.js
+
+### 02. Phishing Website Detection
+
+A Machine Learning classification project comparing five algorithms for phishing website detection, achieving 98.55% accuracy with Random Forest.
+
+**Technologies:** Python · Scikit-learn · Pandas · NumPy
+
+### 03. Face Recognition — PCA vs LDA
+
+A comparative study of Eigenfaces and Fisherfaces using dimensionality reduction and classification techniques on the ORL dataset.
+
+**Technologies:** Python · PCA · LDA · KNN · OpenCV
+
+### 04. ONCF — Augmented Reality Assistant
+
+Development of a multilingual augmented reality application for railway station navigation, helping passengers locate different station services.
+
+**Technologies:** Unity · C# · AR Foundation
 
 ---
 
@@ -72,9 +90,9 @@ I enjoy transforming theoretical concepts into practical solutions through exper
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kniza23&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kniza23&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -83,6 +101,8 @@ I enjoy transforming theoretical concepts into practical solutions through exper
 <div align="center">
 
 ### ✨ Learning, Building & Exploring AI
+
+*Turning ideas into intelligent solutions.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
 
