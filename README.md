@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=KENZA%20BOUSBaa&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20SCIENCE&descAlignY=60&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=KENZA%20BOUSBAA&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20SCIENCE&descAlignY=60&descSize=15" width="100%"/>
 
 <h3>Advanced Machine Learning & Multimedia Intelligence</h3>
 
