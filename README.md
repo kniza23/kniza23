@@ -109,9 +109,7 @@ I am a Master's student in **Advanced Machine Learning and Multimedia Intelligen
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kniza23&show_icons=true&theme=radical&hide_border=true"/>
-&nbsp;
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kniza23&layout=compact&theme=radical&hide_border=true"/>
+<img height="175" src="https://streak-stats.demolab.com?user=kniza23&theme=radical&hide_border=true"/>
 
 </div>
 
