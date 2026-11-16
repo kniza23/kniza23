@@ -45,27 +45,6 @@ I am a Master's student in **Advanced Machine Learning and Multimedia Intelligen
 * ⚙️ **MLOps & Data Engineering**
 
 ---
-
-## 🚀 Featured Projects
-
-**Document Intelligence — RAG Assistant** *(GenAI · NLP)*
-> Designed an intelligent document question-answering system featuring PDF ingestion, local embeddings, semantic search with FAISS, and LLM-based generation.  
-> **Tech Stack:** `Python` · `FastAPI` · `FAISS` · `Ollama` · `Next.js`
-
-**Phishing Website Detection** *(Machine Learning · Cybersecurity)*
-> Built and benchmarked five ML classification models to detect malicious websites, achieving **98.55% accuracy** using Random Forest.  
-> **Tech Stack:** `Python` · `Scikit-learn` · `Pandas` · `NumPy`
-
-**Face Recognition — PCA vs LDA** *(Computer Vision · Biometrics)*
-> Conducted a comparative study of Eigenfaces and Fisherfaces applying dimensionality reduction and classification techniques on the ORL dataset.  
-> **Tech Stack:** `Python` · `PCA` · `LDA` · `KNN` · `OpenCV`
-
-**ONCF — Augmented Reality Assistant** *(AR · Mobile)*
-> Developed a multilingual augmented reality navigation app for railway stations, guiding passengers seamlessly to station services.  
-> **Tech Stack:** `Unity` · `C#` · `AR Foundation`
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <table align="center">
@@ -96,6 +75,28 @@ I am a Master's student in **Advanced Machine Learning and Multimedia Intelligen
     </tr>
   </tbody>
 </table>
+
+
+## 🚀 Featured Projects
+
+**Document Intelligence — RAG Assistant** *(GenAI · NLP)*
+> Designed an intelligent document question-answering system featuring PDF ingestion, local embeddings, semantic search with FAISS, and LLM-based generation.  
+> **Tech Stack:** `Python` · `FastAPI` · `FAISS` · `Ollama` · `Next.js`
+
+**Phishing Website Detection** *(Machine Learning · Cybersecurity)*
+> Built and benchmarked five ML classification models to detect malicious websites, achieving **98.55% accuracy** using Random Forest.  
+> **Tech Stack:** `Python` · `Scikit-learn` · `Pandas` · `NumPy`
+
+**Face Recognition — PCA vs LDA** *(Computer Vision · Biometrics)*
+> Conducted a comparative study of Eigenfaces and Fisherfaces applying dimensionality reduction and classification techniques on the ORL dataset.  
+> **Tech Stack:** `Python` · `PCA` · `LDA` · `KNN` · `OpenCV`
+
+**ONCF — Augmented Reality Assistant** *(AR · Mobile)*
+> Developed a multilingual augmented reality navigation app for railway stations, guiding passengers seamlessly to station services.  
+> **Tech Stack:** `Unity` · `C#` · `AR Foundation`
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
