@@ -98,6 +98,13 @@ I am a Master's student in **Advanced Machine Learning and Multimedia Intelligen
 
 ---
 
+## 📜 Certifications & Achievements
+
+**Steer Your Career — Leadership & Project Management** | *INJAZ Al-Maghrib (Junior Achievement Worldwide)* · *(June 2025)*
+> Completed an intensive program focused on leadership skills, agile project management, and professional career development.
+
+ ---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
