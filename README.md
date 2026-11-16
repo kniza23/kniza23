@@ -1,112 +1,89 @@
 <div align="center">
 
-# Kenza Bousbaa
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=KENZA%20BOUSBaa&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20SCIENCE&descAlignY=60&descSize=15" width="100%"/>
 
-### AI & Machine Learning | Data Science | Intelligent Systems
+<h3>Advanced Machine Learning & Multimedia Intelligence</h3>
 
-Master's Student in Advanced Machine Learning & Multimedia Intelligence  
-FSDM · USMBA · Morocco
-
-<br>
+<p>
+  Master's Student · FSDM USMBA · Morocco
+</p>
 
 <a href="https://www.linkedin.com/in/kenza-bousbaa/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=203A43&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I am a Master's student in Advanced Machine Learning and Multimedia
-Intelligence, with an academic background in Computer Science and Mathematics.
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-My interests focus on designing and developing intelligent systems,
-exploring machine learning algorithms, and transforming data into
-meaningful solutions.
+I am a Master's student in **Advanced Machine Learning and Multimedia Intelligence**, with an academic background in Computer Science and Mathematics.
 
-I particularly enjoy working on projects that combine mathematical
-foundations, artificial intelligence, and software development.
+My interests lie in Artificial Intelligence, Machine Learning, Data Science and the development of intelligent applications.
 
-**Areas I am currently exploring:**
-- Machine Learning & Deep Learning
-- Generative AI, LLMs & Retrieval-Augmented Generation
-- Natural Language Processing
-- Data Engineering & MLOps
+I enjoy transforming theoretical concepts into practical solutions through experimentation, programming and continuous learning.
 
----
-
-## Areas of Interest
-
-| Artificial Intelligence | Data Science | Intelligent Systems |
-|:---:|:---:|:---:|
-| Machine Learning | Data Mining | AI Applications |
-| Deep Learning | Data Analysis | Predictive Systems |
-| NLP & LLMs | Big Data | Semantic Search |
-
----
-
-## Technical Skills
-
-**Programming**
-  
-Python · Java · SQL
-
-**Machine Learning & Deep Learning**
-
-Scikit-learn · TensorFlow · Keras
-
-**Data Science**
-
-Pandas · NumPy · Matplotlib · Jupyter
-
-**AI & Generative AI**
-
-NLP · Transformers · LLMs · RAG · FAISS
-
-**Databases**
-
-MySQL · MongoDB · Neo4j
-
-**Development & Tools**
-
-FastAPI · Streamlit · Git · GitHub · VS Code
-
----
-
-## Featured Projects
-
-### 01. Document Intelligence — RAG Assistant
-An intelligent document question-answering system using PDF ingestion,
-local embeddings, semantic search, FAISS, and LLM-based generation.
-
-### 02. Phishing Website Detection
-A machine learning classification project comparing five algorithms
-for phishing website detection, achieving 98.55% accuracy with
-Random Forest.
-
-### 03. Face Recognition — PCA vs LDA
-A comparative study of Eigenfaces and Fisherfaces using dimensionality
-reduction and classification techniques on the ORL dataset.
-
-### 04. Augmented Reality — Railway Station Assistance
-Development of a multilingual augmented reality application
-for railway station navigation using Unity and AR Foundation.
-
----
-
-## Currently Learning
-
+**Currently exploring:**
+- Generative AI & Large Language Models
 - Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- Semantic Search & Vector Databases
-- MLOps & DataOps fundamentals
+- Natural Language Processing
+- Machine Learning & Deep Learning
+- MLOps & Data Engineering
+
+<br clear="right"/>
+
+---
+
+## 🧠 Technologies & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,linux,vscode,tensorflow,sklearn,fastapi"/>
+
+</p>
+
+**AI & Data:** Python · Scikit-learn · TensorFlow · Keras · Pandas · NumPy
+
+**Generative AI:** NLP · Transformers · LLMs · FAISS · RAG
+
+**Databases:** MySQL · MongoDB · Neo4j
+
+**Development:** FastAPI · Streamlit · Git · GitHub
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **RAG Assistant** | PDF question-answering using embeddings, FAISS and LLMs. |
+| **Phishing Detection** | Machine Learning classification with 98.55% Random Forest accuracy. |
+| **Face Recognition** | Comparative study of PCA (Eigenfaces) and LDA (Fisherfaces). |
+| **ONCF AR Assistant** | Multilingual augmented reality application for railway station navigation. |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-*Exploring ideas. Building solutions. Learning continuously.*
+### ✨ Learning, Building & Exploring AI
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
 
 </div>
