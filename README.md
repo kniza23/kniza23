@@ -30,7 +30,7 @@ I am a Master's student in **Advanced Machine Learning and Multimedia Intelligen
 
 ## 💼 Professional Experience
 
-**Augmented Reality & Software Engineering Intern | ONCF** *(Dates du stage, ex: Apr 2025 - Jun 2025)*
+**Augmented Reality & Software Engineering Intern | ONCF** *(Apr 2025 - Jun 2025)*
 
 > Designed and developed a multilingual augmented reality mobile assistant (Unity, C#, AR Foundation) to optimize passenger navigation and help travelers locate services inside railway stations.
 
