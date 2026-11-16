@@ -2,17 +2,19 @@
 
 <img src="banner..jpeg" width="100%" alt="Kenza Bousbaa - Data & AI Engineer"/>
 
-<h3>Advanced Machine Learning & Multimedia Intelligence</h3>
+<br/>
 
-<p>
-  Master's Student · FSDM USMBA · Morocco
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=B8A9FF&center=true&vCenter=true&width=650&lines=Advanced+Machine+Learning+%26+Multimedia+Intelligence;Master's+Student+%C2%B7+FSDM+USMBA+%C2%B7+Morocco" alt="Typing SVG" />
+
+<br/>
 
 <a href="https://www.linkedin.com/in/kenza-bousbaa/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=kniza23&label=PROFILE+VIEWS&color=203A43&style=for-the-badge"/>
+&nbsp;
+<a href="mailto:kenza.bousbaa01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7B68EE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -90,9 +92,9 @@ Development of a multilingual augmented reality application for railway station 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kniza23&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kniza23&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kniza23&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kniza23&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
