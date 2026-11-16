@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.jpeg" width="100%" alt="Kenza Bousbaa - Data & AI Engineer"/>
+<img src="banner..jpeg" width="100%" alt="Kenza Bousbaa - Data & AI Engineer"/>
 
 <h3>Advanced Machine Learning & Multimedia Intelligence</h3>
 
