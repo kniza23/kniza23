@@ -1,48 +1,112 @@
-### Hi there 👋, I'm Kenza Bousbaa
+<div align="center">
 
-🎓 2nd Year Master's Student in Advanced Machine Learning & Data Science at FSDM USMBA
-💡 Passionate about Artificial Intelligence, Machine Learning, and Data-Driven Systems
-🌍 Based in Morocco | 🚀 Bridging mathematical modeling with robust software implementations
+# Kenza Bousbaa
 
----
+### AI & Machine Learning | Data Science | Intelligent Systems
 
-### 🧐 About Me
+Master's Student in Advanced Machine Learning & Multimedia Intelligence  
+FSDM · USMBA · Morocco
 
-I am an informatics and data science enthusiast currently completing my Master's degree. With a strong foundation in mathematics and computer science (DEUST from USMBA), I specialize in building intelligent systems, data processing pipelines, and practical machine learning applications.
+<br>
 
----
+<a href="https://www.linkedin.com/in/kenza-bousbaa/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-### 💼 Academic & Professional Journey
-
-* **Data Science & ML Projects** | *FSDM USMBA* *(2024 - Present)*
-  * Developing academic and practical projects focused on machine learning algorithms, data mining, and optimization techniques.
-* **Software & Informatics Background** | *USMBA* *(2021 - 2024)*
-  * Earned a DEUST in Mathematics and Informatics, mastering core programming concepts, algorithms, and database management.
+</div>
 
 ---
 
-### 🧠 Domains of Interest
+## About Me
 
-* 🤖 Artificial Intelligence & Machine Learning / Deep Learning
-* 📊 Data Mining, Big Data & Business Intelligence
-* ⚙️ Mathematical Optimization & Decision Models
-* 🌐 Web Development & Software Engineering
+I am a Master's student in Advanced Machine Learning and Multimedia
+Intelligence, with an academic background in Computer Science and Mathematics.
+
+My interests focus on designing and developing intelligent systems,
+exploring machine learning algorithms, and transforming data into
+meaningful solutions.
+
+I particularly enjoy working on projects that combine mathematical
+foundations, artificial intelligence, and software development.
+
+**Areas I am currently exploring:**
+- Machine Learning & Deep Learning
+- Generative AI, LLMs & Retrieval-Augmented Generation
+- Natural Language Processing
+- Data Engineering & MLOps
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Areas of Interest
 
-| Domain | Technologies |
-| :--- | :--- |
-| **AI & Data Science** | `Python` `Scikit-Learn` `TensorFlow` `Pandas` `NumPy` `Jupyter` |
-| **Databases & Querying** | `SQL` `MySQL` `PostgreSQL` |
-| **Programming & Web** | `Java` `C/C++` `JavaScript` `HTML/CSS` |
-| **Tools & Systems** | `Git` `GitHub` `Linux` `VS Code` `LaTeX` |
+| Artificial Intelligence | Data Science | Intelligent Systems |
+|:---:|:---:|:---:|
+| Machine Learning | Data Mining | AI Applications |
+| Deep Learning | Data Analysis | Predictive Systems |
+| NLP & LLMs | Big Data | Semantic Search |
 
 ---
 
-### 🚀 Featured Projects
+## Technical Skills
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[Your Project Name](https://github.com/votre-nom/votre-repo)** | Short description of what your machine learning or software project does. | `Python`, `Scikit-Learn` |
+**Programming**
+  
+Python · Java · SQL
+
+**Machine Learning & Deep Learning**
+
+Scikit-learn · TensorFlow · Keras
+
+**Data Science**
+
+Pandas · NumPy · Matplotlib · Jupyter
+
+**AI & Generative AI**
+
+NLP · Transformers · LLMs · RAG · FAISS
+
+**Databases**
+
+MySQL · MongoDB · Neo4j
+
+**Development & Tools**
+
+FastAPI · Streamlit · Git · GitHub · VS Code
+
+---
+
+## Featured Projects
+
+### 01. Document Intelligence — RAG Assistant
+An intelligent document question-answering system using PDF ingestion,
+local embeddings, semantic search, FAISS, and LLM-based generation.
+
+### 02. Phishing Website Detection
+A machine learning classification project comparing five algorithms
+for phishing website detection, achieving 98.55% accuracy with
+Random Forest.
+
+### 03. Face Recognition — PCA vs LDA
+A comparative study of Eigenfaces and Fisherfaces using dimensionality
+reduction and classification techniques on the ORL dataset.
+
+### 04. Augmented Reality — Railway Station Assistance
+Development of a multilingual augmented reality application
+for railway station navigation using Unity and AR Foundation.
+
+---
+
+## Currently Learning
+
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- Semantic Search & Vector Databases
+- MLOps & DataOps fundamentals
+
+---
+
+<div align="center">
+
+*Exploring ideas. Building solutions. Learning continuously.*
+
+</div>
