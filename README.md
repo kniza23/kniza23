@@ -84,7 +84,7 @@ I am a Master's student in **Advanced Machine Learning and Multimedia Intelligen
 > Designed an intelligent document question-answering system featuring PDF ingestion, local embeddings, semantic search with FAISS, and LLM-based generation.  
 > **Tech Stack:** `Python` · `FastAPI` · `FAISS` · `Ollama` · `Next.js`
 
-**Phishing Website Detection** *(Machine Learning · Cybersecurity)*
+**Phishing Website Detection** *(Machine Learning)*
 > Built and benchmarked five ML classification models to detect malicious websites, achieving **98.55% accuracy** using Random Forest.  
 > **Tech Stack:** `Python` · `Scikit-learn` · `Pandas` · `NumPy`
 
